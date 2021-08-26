@@ -27,7 +27,7 @@ set t
 
 :choice 
 cls
-echo enter 1 for &k;;;; [your text here] &k;;;;
+echo enter 1 for k;;;; [your text here] k;;;;
 echo enter 2 to turn your text into a rainbow
 echo.
 echo.
